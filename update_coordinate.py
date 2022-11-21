@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 01 20:48:00 2021
-
-@author: anwahyu
-"""
-
 import urllib.parse
 import pandas as pd
 import time
